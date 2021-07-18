@@ -1,0 +1,170 @@
+[
+    {
+      "name": "Damon Nitzsche",
+      "card_set": "LLC",
+      "rarity": "PhD",
+      "acquired_date": "5/14/2021",
+      "estimated_price": 31874,
+      "quantity": 26763,
+      "details": "https://hosea.org",
+      "tableData": {
+        "id": 0
+      }
+    },
+    {
+      "name": "Terry Auer",
+      "card_set": "LLC",
+      "rarity": "Jr.",
+      "acquired_date": "10/6/2020",
+      "estimated_price": 45623,
+      "quantity": 42196,
+      "details": "https://teagan.net",
+      "tableData": {
+        "id": 1
+      }
+    },
+    {
+      "name": "Stephanie Leuschke",
+      "card_set": "LLC",
+      "rarity": "DDS",
+      "acquired_date": "4/28/2021",
+      "estimated_price": 33632,
+      "quantity": 2386,
+      "details": "https://electa.net",
+      "tableData": {
+        "id": 2
+      }
+    },
+    {
+      "name": "Viola Stamm",
+      "card_set": "Group",
+      "rarity": "V",
+      "acquired_date": "7/25/2020",
+      "estimated_price": 86063,
+      "quantity": 21106,
+      "details": "https://bill.org",
+      "tableData": {
+        "id": 3
+      }
+    },
+    {
+      "name": "Sandy Johns",
+      "card_set": "Group",
+      "rarity": "PhD",
+      "acquired_date": "1/30/2021",
+      "estimated_price": 81865,
+      "quantity": 68454,
+      "details": "https://gus.com",
+      "tableData": {
+        "id": 4
+      }
+    },
+    {
+      "name": "Harvey Stanton IV",
+      "card_set": "and Sons",
+      "rarity": "IV",
+      "acquired_date": "7/19/2020",
+      "estimated_price": 50301,
+      "quantity": 72328,
+      "details": "http://delaney.info",
+      "tableData": {
+        "id": 5
+      }
+    },
+    {
+      "name": "Teresa Koepp",
+      "card_set": "Group",
+      "rarity": "Jr.",
+      "acquired_date": "3/14/2021",
+      "estimated_price": 78196,
+      "quantity": 39350,
+      "details": "http://jerrod.biz",
+      "tableData": {
+        "id": 6
+      }
+    },
+    {
+      "name": "Hattie Kautzer",
+      "card_set": "Inc",
+      "rarity": "PhD",
+      "acquired_date": "9/12/2020",
+      "estimated_price": 81303,
+      "quantity": 27375,
+      "details": "http://antonio.biz",
+      "tableData": {
+        "id": 7
+      }
+    },
+    {
+      "name": "Mrs. Kristina Herzog",
+      "card_set": "Inc",
+      "rarity": "MD",
+      "acquired_date": "3/8/2021",
+      "estimated_price": 81599,
+      "quantity": 78076,
+      "details": "https://elisabeth.name",
+      "tableData": {
+        "id": 8
+      }
+    },
+    {
+      "name": "Patty Block Jr.",
+      "card_set": "and Sons",
+      "rarity": "III",
+      "acquired_date": "5/27/2021",
+      "estimated_price": 70438,
+      "quantity": 10277,
+      "details": "https://stacey.name",
+      "tableData": {
+        "id": 9
+      }
+    },
+    {
+      "name": "Olivia Greenfelder",
+      "card_set": "Inc",
+      "rarity": "IV",
+      "acquired_date": "4/7/2021",
+      "estimated_price": 78402,
+      "quantity": 77579,
+      "details": "https://nola.net",
+      "tableData": {
+        "id": 10
+      }
+    },
+    {
+      "name": "Daisy Balistreri",
+      "card_set": "Inc",
+      "rarity": "IV",
+      "acquired_date": "1/14/2021",
+      "estimated_price": 55629,
+      "quantity": 19957,
+      "details": "http://julianne.info",
+      "tableData": {
+        "id": 11
+      }
+    },
+    {
+      "name": "Lillian Feil",
+      "card_set": "LLC",
+      "rarity": "DDS",
+      "acquired_date": "7/3/2021",
+      "estimated_price": 8044,
+      "quantity": 87088,
+      "details": "http://berta.biz",
+      "tableData": {
+        "id": 12
+      }
+    },
+    {
+      "name": "Shane Koch",
+      "card_set": "Inc",
+      "rarity": "DDS",
+      "acquired_date": "6/18/2021",
+      "estimated_price": 22740,
+      "quantity": 83878,
+      "details": "http://immanuel.name",
+      "tableData": {
+        "id": 13
+      }
+    }
+  ]

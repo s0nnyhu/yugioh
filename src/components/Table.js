@@ -1,9 +1,13 @@
 
-import faker from 'faker';
+import React, { useEffect, useState } from "react";
 import MaterialTable from 'material-table'
+import Chip from '@material-ui/core/Chip';
+import Button from '@material-ui/core/Button';
+import { CardDetails } from "./CardDetails";
+import axios from 'axios';
 
+//CSS
 import { forwardRef } from 'react';
-
 import AddBox from '@material-ui/icons/AddBox';
 import ArrowDownward from '@material-ui/icons/ArrowDownward';
 import Check from '@material-ui/icons/Check';
@@ -19,6 +23,7 @@ import Remove from '@material-ui/icons/Remove';
 import SaveAlt from '@material-ui/icons/SaveAlt';
 import Search from '@material-ui/icons/Search';
 import ViewColumn from '@material-ui/icons/ViewColumn';
+import RemoveRedEyeIcon from '@material-ui/icons/RemoveRedEye';
 
 const tableIcons = {
     Add: forwardRef((props, ref) => <AddBox {...props} ref={ref} />),
@@ -38,61 +43,58 @@ const tableIcons = {
     SortArrow: forwardRef((props, ref) => <ArrowDownward {...props} ref={ref} />),
     ThirdStateCheck: forwardRef((props, ref) => <Remove {...props} ref={ref} />),
     ViewColumn: forwardRef((props, ref) => <ViewColumn {...props} ref={ref} />)
-  };
+};
 
-let CARDS = [];
 
-for (let i=0; i<14; i++) {
-    CARDS[i] = {
-        name: faker.name.findName(),
-        card_set: faker.company.companySuffix(),
-        rarity: faker.name.suffix(),
-        acquired_date: faker.date.past().toLocaleDateString('en-US'),
-        estimated_price: faker.random.number(),
-        quantity: faker.random.number(),
-        details: faker.internet.url()
-    }
-}
 
-console.log(CARDS);
+export const Table = () => {
+    const urlApi = "https://raw.githubusercontent.com/s0nnyhu/yugioh/develop/data.json";
 
-export const Table=()=>{
-    const data = CARDS;
+    const [cards, setCards] = useState([]);
+    useEffect(() => {
+        axios.get(urlApi)
+            .then(response => {
+                setCards(response.data);
+            })
+    }, [urlApi])
+
     const columns = [
-        {
-            title: 'Name', field:'name'
-        },
-        {
-            title: 'card_set', field:'card_set'
-        },
-        {
-            title: 'rarity', field:'rarity'
-        },
-        {
-            title: 'acquired_date', field:'acquired_date'
-        },
-        {
-            title: 'estimated_price', field:'estimated_price'
-        },
-        {
-            title: 'quantity', field:'quantity'
-        },
-        {
-            title: 'details', field:'details'
-        },
+        { title: 'Name', field: 'name', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Card set', field: 'card_set', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Rarity', field: 'rarity', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, lookup: { 'DDS': 'DDS', 'and Sons': 'and Sons' }, render: rowData => <Chip variant="outlined" color="primary" label={rowData.rarity} /> },
+        { title: 'Acquired', field: 'acquired_date', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Price', field: 'estimated_price', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Quantity', field: 'quantity', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Details', field: 'details', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, render: rowData => <Button color="primary" onClick={() => handleOpen(rowData.name)}><RemoveRedEyeIcon /></Button> },
     ]
+
+    const [isOpen, setIsOpen] = useState(false);
+    const [selectedCardName, setSelectedCardName] = useState(null);
+
+    const handleOpen = (cardName) => {
+        setSelectedCardName(cardName);
+        console.log(cardName);
+        setIsOpen(!isOpen);
+    };
+
+
     return (
         <div>
-            <MaterialTable 
-            title="Own cards"
-            data={CARDS}
-            columns={columns}
-            icons={tableIcons}
-            options={{
-                paging: false,
-                filtering:true,
-                exportButton:true
-            }}
+            <MaterialTable
+                title=""
+                data={cards}
+                columns={columns}
+                icons={tableIcons}
+                options={{
+                    paging: false,
+                    filtering: true,
+                    exportButton: true
+                }}
+            />
+            <CardDetails
+                isDialogOpened={isOpen}
+                handleCloseDialog={() => setIsOpen(false)}
+                cardName="Coucou"
             />
         </div>
     )

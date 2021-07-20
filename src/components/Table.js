@@ -59,12 +59,15 @@ export const Table = () => {
     }, [urlApi])
 
     const columns = [
-        { title: 'Name', field: 'name', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
-        { title: 'Card set', field: 'card_set', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Year', field: 'year', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Set Name', field: 'card_set', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Card #', field: 'card_id', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Card Name', field: 'card_name', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
         { title: 'Rarity', field: 'rarity', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, lookup: { 'DDS': 'DDS', 'and Sons': 'and Sons' }, render: rowData => <Chip variant="outlined" color="primary" label={rowData.rarity} /> },
-        { title: 'Acquired', field: 'acquired_date', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
-        { title: 'Price', field: 'estimated_price', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
         { title: 'Quantity', field: 'quantity', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Edition', field: 'card_edition', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+        { title: 'Price', field: 'cardmarket_price', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+
         { title: 'Details', field: 'details', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, render: rowData => <Button color="primary" onClick={() => handleOpen(rowData.name)}><RemoveRedEyeIcon /></Button> },
     ]
 

@@ -48,15 +48,15 @@ const tableIcons = {
 
 
 export const Table = () => {
-    const urlApi = "https://raw.githubusercontent.com/s0nnyhu/yugioh/develop/data.json";
-
+    const urlCardListApi = "https://raw.githubusercontent.com/s0nnyhu/yugioh/develop/data.json";
+    const urlEndpointYugiohApi = 'https://db.ygoprodeck.com/api/v7';
     const [cards, setCards] = useState([]);
     useEffect(() => {
-        axios.get(urlApi)
+        axios.get(urlCardListApi)
             .then(response => {
                 setCards(response.data);
             })
-    }, [urlApi])
+    }, [urlCardListApi])
 
     const getRarityStyle = (type) => {
         let bg = "";
@@ -97,7 +97,7 @@ export const Table = () => {
         setCard([]);
         if (!isOpen) {
             console.log(cardName);
-            fetch('https://db.ygoprodeck.com/api/v7/cardinfo.php?name=' + cardName)
+            fetch(urlEndpointYugiohApi + '/cardinfo.php?name=' + cardName)
                 .then(response => {
                     return response.json();
                 })

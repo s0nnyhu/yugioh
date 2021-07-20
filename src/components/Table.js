@@ -58,26 +58,53 @@ export const Table = () => {
             })
     }, [urlApi])
 
-    const columns = [
-        { title: 'Year', field: 'year', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
-        { title: 'Set Name', field: 'card_set', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
-        { title: 'Card #', field: 'card_id', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
-        { title: 'Card Name', field: 'card_name', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
-        { title: 'Rarity', field: 'rarity', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, lookup: { 'DDS': 'DDS', 'and Sons': 'and Sons' }, render: rowData => <Chip variant="outlined" color="primary" label={rowData.rarity} /> },
-        { title: 'Quantity', field: 'quantity', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
-        { title: 'Edition', field: 'card_edition', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
-        { title: 'Price', field: 'cardmarket_price', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, },
+    const getRarityStyle = (type) => {
+        let bg = "";
+        if (type == 'Starlight Rare') {
+            bg = "#5353ff"
+        } else if (type == "Ghost Rare") {
+            bg = "#dadada"
+        } else if (type == "Ultra Rare") {
+            bg = "#fee021"
+        } else {
+            bg = "transparent"
+        }
 
-        { title: 'Details', field: 'details', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, render: rowData => <Button color="primary" onClick={() => handleOpen(rowData.name)}><RemoveRedEyeIcon /></Button> },
+        return { backgroundColor: bg, color: "black" }
+    }
+    const columns = [
+        { title: 'Year', field: 'year', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, width: "10%" },
+        { title: 'Set Name', field: 'card_set', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, width: "20%" },
+        { title: 'Card #', field: 'card_id', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, width: "10%" },
+        { title: 'Card Name', field: 'card_name', headerStyle: { fontSize: "16px", fontWeight: "700" }, width: "10%", filtering: false, width: "30%" },
+        { title: 'Rarity', field: 'rarity', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, render: rowData => <Chip variant="outlined" style={getRarityStyle(rowData.rarity)} label={rowData.rarity} />, type: 'html' },
+        { title: 'Quantity', field: 'quantity', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, width: "10%" },
+        { title: 'Edition', field: 'card_edition', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, width: "10%" },
+        {
+            title: 'Price', field: 'cardmarket_price', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, width: "10%", render: rowData => rowData.cardmarket_price + ' €',
+            customSort: (a, b) =>
+                a.cardmarket_price - b.cardmarket_price
+        },
+
+        { title: 'Details', field: 'details', headerStyle: { fontSize: "16px", fontWeight: "700" }, filtering: false, sorting: false, render: rowData => <Button color="primary" onClick={() => handleOpen(rowData.card_name)}><RemoveRedEyeIcon /></Button> },
     ]
 
     const [isOpen, setIsOpen] = useState(false);
-    const [selectedCardName, setSelectedCardName] = useState(null);
+    const [card, setCard] = useState([]);
 
     const handleOpen = (cardName) => {
-        setSelectedCardName(cardName);
-        console.log(cardName);
         setIsOpen(!isOpen);
+        setCard([]);
+        if (!isOpen) {
+            console.log(cardName);
+            fetch('https://db.ygoprodeck.com/api/v7/cardinfo.php?name=' + cardName)
+                .then(response => {
+                    return response.json();
+                })
+                .then(json => {
+                    setCard(json);
+                })
+        }
     };
 
 
@@ -97,7 +124,7 @@ export const Table = () => {
             <CardDetails
                 isDialogOpened={isOpen}
                 handleCloseDialog={() => setIsOpen(false)}
-                cardName="Coucou"
+                card={card}
             />
         </div>
     )

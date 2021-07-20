@@ -4,10 +4,10 @@ import { Container } from '@material-ui/core';
 function App() {
   return (
     <div className="App">
-      <h2>React - App</h2>
-      <Container maxWidth="lg">
+      <h2>My yugioh cards list</h2>
+      <div id="table-own-cards">
         <Table />
-      </Container>
+      </div>
     </div>
   );
 }

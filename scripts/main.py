@@ -1,6 +1,8 @@
 import sys
 import pandas
 import requests
+import csv
+import json
 
 csvFileName = 'Yugioh colection - Own cards.csv'
 yugiohApiEndpoint = 'https://db.ygoprodeck.com/api/v7/'
@@ -51,11 +53,39 @@ def setCardmarketPriceInCsv():
     print("Saved!")
 
 
+def isLast(itr):
+    old = itr.next()
+    for new in itr:
+        yield False, old
+        old = new
+    yield True, old
+
+
+def generateJsonFromCsv():
+    df = pandas.read_csv(csvFileName)
+    df.to_json(path_or_buf='data.json', orient='records', lines=True)
+    my_list = []
+    with open(csvFileName) as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            name = row["Year"]
+            date_of_birth = row["Card Name"]
+            my_dict = {'year': row['Year'], 'card_set': row['Set Name'], 'card_id': row['Card #'], 'card_name': row['Card Name'],
+                       'rarity': row['Rarity'], 'quantity':  row['Quantity'], 'card_edition':  row['Edition'], 'cardmarket_price': row['Cardmarket Price']}
+            my_list.append(my_dict)
+    with open('../data.json', 'w') as outfile:
+        json.dump(my_list, outfile, indent=4)
+
+
 if (sys.argv[1] == "cardname"):
     print("Removing card name extra space at EOL")
     print("-------------------------------------")
     removeCardNameEOLSpaceInCsv()
-else:
+elif (sys.argv[1] == "cardprice"):
     print("Updating cardmarket price")
     print("-------------------------------------")
     setCardmarketPriceInCsv()
+else:
+    print("Generating JSON")
+    print("-------------------------------------")
+    generateJsonFromCsv()

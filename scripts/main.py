@@ -4,7 +4,7 @@ import requests
 import csv
 import json
 
-csvFileName = 'Yugioh colection - Own cards.csv'
+csvFileName = 'Yugioh colection - True Own Cards.csv'
 yugiohApiEndpoint = 'https://db.ygoprodeck.com/api/v7/'
 
 
@@ -68,12 +68,10 @@ def generateJsonFromCsv():
     with open(csvFileName) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            name = row["Year"]
-            date_of_birth = row["Card Name"]
-            my_dict = {'year': row['Year'], 'card_set': row['Set Name'], 'card_id': row['Card #'], 'card_name': row['Card Name'],
+            my_dict = {'year': row['Year'], 'card_set': row['Set Name'], 'language': row['Language'], 'card_id': row['Card #'], 'card_name': row['Card Name'],
                        'rarity': row['Rarity'], 'quantity':  row['Quantity'], 'card_edition':  row['Edition'], 'cardmarket_price': row['Cardmarket Price']}
             my_list.append(my_dict)
-    with open('../data.json', 'w') as outfile:
+    with open('data.json', 'w') as outfile:
         json.dump(my_list, outfile, indent=4)
 
 

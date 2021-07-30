@@ -60,14 +60,33 @@ export const Table = () => {
 
     const getRarityStyle = (type) => {
         let bg = "";
-        if (type == 'Starlight Rare') {
-            bg = "#5353ff"
-        } else if (type == "Ghost Rare") {
-            bg = "#dadada"
-        } else if (type == "Ultra Rare") {
-            bg = "#fee021"
-        } else {
-            bg = "transparent"
+        switch (type) {
+            case 'Starlight Rare':
+                bg = "#5353ff";
+                break;
+            case 'Starlight Rare':
+                bg = "#5353ff";
+                break;
+            case "Ghost Rare":
+                bg = "#f8f8f8";
+                break;
+            case "Ultra Rare":
+                bg = "#fee021"
+                break;
+            case "Super Rare":
+                bg = "#f7ca44"
+                break;
+            case "Secret Rare":
+                bg = "#e7e78f"
+            case "Rare":
+                bg = "#dcdcdc";
+                break;
+            case "Common":
+                bg = "#4d4d4d"
+                break;
+            default:
+                bg = "transparent"
+                break;
         }
 
         return { backgroundColor: bg, color: "black" }

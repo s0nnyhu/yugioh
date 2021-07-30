@@ -1,0 +1,101 @@
+LIOV-EN000; Diviner of the Herald; Secret Rare
+LIOV-EN001; ZW - Pegasus Twin Saber; Common
+LIOV-EN002; ZS - Armed Sage; Common
+LIOV-EN003; ZS - Ascended Sage; Ultra Rare
+LIOV-EN004; Supreme Sovereign Serpent of Golgonda; Super Rare
+LIOV-EN005; Springans Brothers; Common
+LIOV-EN006; Amazement Administrator Arlekino; Secret Rare
+LIOV-EN007; Amazement Ambassador Bufo; Common
+LIOV-EN008; Amazement Attendant Comica; Ultra Rare
+LIOV-EN009; Roxrose Dragon; Super Rare
+LIOV-EN010; Ruddy Rose Witch; Super Rare
+LIOV-EN011; Danmari @Ignister; Common
+LIOV-EN012; Bujin Mahitotsu; Common
+LIOV-EN013; Bujin Torifune; Super Rare
+LIOV-EN014; S-Force Dog Tag; Common
+LIOV-EN015; S-Force Edge Razor; Common
+LIOV-EN016; Traptrix Vesiculo; Ultra Rare
+LIOV-EN017; Live☆Twin Ki-sikil Frost; Ultra Rare, Starlight Rare
+LIOV-EN018; Blackeyes, the Plunder Patroll Seaguide; Common
+LIOV-EN019; Starry Knight Ciel; Common
+LIOV-EN020; Judge of the Ice Barrier; Common
+LIOV-EN021; Scrap Raptor; Common
+LIOV-EN022; Dark Honest; Secret Rare
+LIOV-EN023; Bahalutiya, the Grand Radiance; Secret Rare, Starlight Rare
+LIOV-EN024; Pharaonic Guardian Sphinx; Common
+LIOV-EN025; Sky Scourge Cidhels; Common
+LIOV-EN026; Anchamoufrite; Common
+LIOV-EN027; Dark Eye Nightmare; Common
+LIOV-EN028; World Soul - Carbon; Common
+LIOV-EN029; Yamorimori; Common
+LIOV-EN030; Clock Arc; Common
+LIOV-EN031; Otoshidamashi; Common
+LIOV-EN032; White Knight of Dogmatika; Ultra Rare
+LIOV-EN033; Albion the Branded Dragon; Ultra Rare
+LIOV-EN034; Mysterion the Dragon Crown; Ultra Rare
+LIOV-EN035; Ruddy Rose Dragon; Secret Rare
+LIOV-EN036; Garden Rose Flora; Super Rare
+LIOV-EN037; Lavalval Exlord; Super Rare
+LIOV-EN038; Star Mine; Common
+LIOV-EN039; Ultimate Dragonic Utopia Ray; Ultra Rare
+LIOV-EN040; ZW - Dragonic Halberd; Super Rare
+LIOV-EN041; Springans Merrymaker; Super Rare
+LIOV-EN042; Rilliona, the Wondrous Magistus Witch Wardrobe; Ultra Rare
+LIOV-EN043; Drytron Mu Beta Fafnir; Secret Rare
+LIOV-EN044; Tri-Brigade Bearbrumm the Rampant Rampager; Super Rare
+LIOV-EN045; Dark Infant @Ignister; Super Rare
+LIOV-EN046; Traptrix Cularia; Ultra Rare
+LIOV-EN047; Paleozoic Cambroraster; Common
+LIOV-EN048; Benghalancer the Resurgent; Secret Rare
+LIOV-EN049; Lyna the Light Charmer, Lustrous; Super Rare, Starlight Rare
+LIOV-EN050; Rank-Up-Magic Zexal Force; Super Rare
+LIOV-EN051; Zexal Construction; Super Rare
+LIOV-EN052; Zexal Entrust; Common
+LIOV-EN053; Dogmatikalamity; Common
+LIOV-EN054; Springans Booty; Common
+LIOV-EN055; Branded in White; Super Rare
+LIOV-EN056; Amazing Time Ticket; Secret Rare
+LIOV-EN057; Amazement Special Show; Common
+LIOV-EN058; Amazement Precious Park; Super Rare
+LIOV-EN059; Basal Rose Shoot; Common
+LIOV-EN060; A.I. Meet You; Common
+LIOV-EN061; You and A.I.; Common
+LIOV-EN062; Bujincandescence; Common
+LIOV-EN063; Birth of the Prominence Flame; Common
+LIOV-EN064; Book of Lunar Eclipse; Secret Rare, Starlight Rare
+LIOV-EN065; One-Kuri-Way; Common
+LIOV-EN066; Hidden Springs of the Far East; Common
+LIOV-EN067; Zexal Alliance; Common
+LIOV-EN068; Screams of the Branded; Common
+LIOV-EN069; Judgment of the Branded; Common
+LIOV-EN070; Amazement Family Faces; Super Rare
+LIOV-EN071; Amaze Attraction Cyclo-Coaster; Ultra Rare
+LIOV-EN072; Amaze Attraction Wonder Wheel; Common
+LIOV-EN073; Amaze Attraction Majestic Merry-Go-Round; Common
+LIOV-EN074; Amaze Attraction Rapid Racing; Common
+LIOV-EN075; Amaze Attraction Horror House; Ultra Rare
+LIOV-EN076; A.I. Challenge You; Common
+LIOV-EN077; S-Force Chase; Ultra Rare
+LIOV-EN078; One by One; Common
+LIOV-EN079; Boo-Boo Game; Common
+LIOV-EN080; Fukubiki; Common
+LIOV-EN081; Proof of Pruflas; Super Rare
+LIOV-EN082; Thron the Disciplined Angel; Super Rare
+LIOV-EN083; Pendransaction; Super Rare
+LIOV-EN084; Expendable Dai; Super Rare
+LIOV-EN085; Terrors of the Underroot; Common
+LIOV-EN086; War Rock Wento; Super Rare
+LIOV-EN087; War Rock Mammud; Common
+LIOV-EN088; War Rock Meteoragon; Common
+LIOV-EN089; War Rock Dignity; Ultra Rare
+LIOV-EN090; War Rock Spirit; Super Rare
+LIOV-EN091; War Rock Generations; Common
+LIOV-EN092; War Rock Big Blow; Common
+LIOV-EN093; Eda the Sun Magician; Super Rare
+LIOV-EN094; Staysailor Romarin; Super Rare
+LIOV-EN095; D/D/D Supersight King Zero Maxwell; Common
+LIOV-EN096; Binary Blader; Common
+LIOV-EN097; Sunavalon Daphne; Common
+LIOV-EN098; Sunavalon Melias; Super Rare
+LIOV-EN099; Sunvine Cross Breed; Common
+LIOV-EN100; Black Rose Dragon; Starlight Rare

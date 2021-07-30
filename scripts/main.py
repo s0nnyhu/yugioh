@@ -4,7 +4,7 @@ import requests
 import csv
 import json
 
-csvFileName = 'Yugioh colection - True Own Cards.csv'
+csvFileName = 'Yugioh Collection Cards - True Own Cards.csv'
 yugiohApiEndpoint = 'https://db.ygoprodeck.com/api/v7/'
 
 

@@ -1,101 +1,100 @@
-LIOV-EN000; Diviner of the Herald; Secret Rare; 1
-LIOV-EN001; ZW - Pegasus Twin Saber; Common; 4
-LIOV-EN002; ZS - Armed Sage; Common; 4
-LIOV-EN003; ZS - Ascended Sage; Ultra Rare; 0
-LIOV-EN004; Supreme Sovereign Serpent of Golgonda; Super Rare; 0
-LIOV-EN005; Springans Brothers; Common; 4
-LIOV-EN006; Amazement Administrator Arlekino; Secret Rare; 0
-LIOV-EN007; Amazement Ambassador Bufo; Common; 4
-LIOV-EN008; Amazement Attendant Comica; Ultra Rare; 0
-LIOV-EN009; Roxrose Dragon; Super Rare; 2
-LIOV-EN010; Ruddy Rose Witch; Super Rare; 3
-LIOV-EN011; Danmari @Ignister; Common; 5
-LIOV-EN012; Bujin Mahitotsu; Common; 4
-LIOV-EN013; Bujin Torifune; Super Rare; 0
-LIOV-EN014; S-Force Dog Tag; Common; 4
-LIOV-EN015; S-Force Edge Razor; Common; 0
-LIOV-EN016; Traptrix Vesiculo; Ultra Rare; 0
-LIOV-EN017; Live☆Twin Ki-sikil Frost; Ultra Rare, Starlight Rare; 0
-LIOV-EN018; Blackeyes, the Plunder Patroll Seaguide; Common; 4
-LIOV-EN019; Starry Knight Ciel; Common; 4
-LIOV-EN020; Judge of the Ice Barrier; Common; 4
-LIOV-EN021; Scrap Raptor; Common; 4
-LIOV-EN022; Dark Honest; Secret Rare; 0
-LIOV-EN023; Bahalutiya, the Grand Radiance; Secret Rare, Starlight Rare; 0
-LIOV-EN024; Pharaonic Guardian Sphinx; Common; 4
-LIOV-EN025; Sky Scourge Cidhels; Common; 4
-LIOV-EN026; Anchamoufrite; Common; 5
-LIOV-EN027; Dark Eye Nightmare; Common; 5
-LIOV-EN028; World Soul - Carbon; Common; 3
-LIOV-EN029; Yamorimori; Common; 3
-LIOV-EN030; Clock Arc; Common; 3
-LIOV-EN031; Otoshidamashi; Common; 4
-LIOV-EN032; White Knight of Dogmatika; Ultra Rare; 1
-LIOV-EN033; Albion the Branded Dragon; Ultra Rare; 1
-LIOV-EN034; Mysterion the Dragon Crown; Ultra Rare; 0
-LIOV-EN035; Ruddy Rose Dragon; Secret Rare; 0
-LIOV-EN036; Garden Rose Flora; Super Rare; 2
-LIOV-EN037; Lavalval Exlord; Super Rare; 0
-LIOV-EN038; Star Mine; Common; 5
-LIOV-EN039; Ultimate Dragonic Utopia Ray; Ultra Rare; 0
-LIOV-EN040; ZW - Dragonic Halberd; Super Rare; 0
-LIOV-EN041; Springans Merrymaker; Super Rare; 0
-LIOV-EN042; Rilliona, the Wondrous Magistus Witch Wardrobe; Ultra Rare; 1
-LIOV-EN043; Drytron Mu Beta Fafnir; Secret Rare; 0
-LIOV-EN044; Tri-Brigade Bearbrumm the Rampant Rampager; Super Rare; 1
-LIOV-EN045; Dark Infant @Ignister; Super Rare; 1
-LIOV-EN046; Traptrix Cularia; Ultra Rare; 1
-LIOV-EN047; Paleozoic Cambroraster; Common; 4
-LIOV-EN048; Benghalancer the Resurgent; Secret Rare; 0
-LIOV-EN049; Lyna the Light Charmer, Lustrous; Super Rare, Starlight Rare; 2
-LIOV-EN050; Rank-Up-Magic Zexal Force; Super Rare; 0
-LIOV-EN051; Zexal Construction; Super Rare; 2
-LIOV-EN052; Zexal Entrust; Common; 2
-LIOV-EN053; Dogmatikalamity; Common; 4
-LIOV-EN054; Springans Booty; Common; 3
-LIOV-EN055; Branded in White; Super Rare; 1
-LIOV-EN056; Amazing Time Ticket; Secret Rare; 1
-LIOV-EN057; Amazement Special Show; Common; 2
-LIOV-EN058; Amazement Precious Park; Super Rare; 1
-LIOV-EN059; Basal Rose Shoot; Common; 4
-LIOV-EN060; A.I. Meet You; Common; 3
-LIOV-EN061; You and A.I.; Common; 3
-LIOV-EN062; Bujincandescence; Common; 4
-LIOV-EN063; Birth of the Prominence Flame; Common; 4
-LIOV-EN064; Book of Lunar Eclipse; Secret Rare, Starlight Rare; 0
-LIOV-EN065; One-Kuri-Way; Common; 4
-LIOV-EN066; Hidden Springs of the Far East; Common; 3
-LIOV-EN067; Zexal Alliance; Common; 5
-LIOV-EN068; Screams of the Branded; Common; 4
-LIOV-EN069; Judgment of the Branded; Common; 5
-LIOV-EN070; Amazement Family Faces; Super Rare; 1
-LIOV-EN071; Amaze Attraction Cyclo-Coaster; Ultra Rare; 0
-LIOV-EN072; Amaze Attraction Wonder Wheel; Common; 5
-LIOV-EN073; Amaze Attraction Majestic Merry-Go-Round; Common; 4
-LIOV-EN074; Amaze Attraction Rapid Racing; Common; 4
-LIOV-EN075; Amaze Attraction Horror House; Ultra Rare; 0
-LIOV-EN076; A.I. Challenge You; Common; 4
-LIOV-EN077; S-Force Chase; Ultra Rare; 0
-LIOV-EN078; One by One; Common; 4
-LIOV-EN079; Boo-Boo Game; Common; 5
-LIOV-EN080; Fukubiki; Common; 3
-LIOV-EN081; Proof of Pruflas; Super Rare; 0
-LIOV-EN082; Thron the Disciplined Angel; Super Rare; 0
-LIOV-EN083; Pendransaction; Super Rare; 0
-LIOV-EN084; Expendable Dai; Super Rare; 0
-LIOV-EN085; Terrors of the Underroot; Common; 4
-LIOV-EN086; War Rock Wento; Super Rare; 1
-LIOV-EN087; War Rock Mammud; Common; 4
-LIOV-EN088; War Rock Meteoragon; Common; 0
-LIOV-EN089; War Rock Dignity; Ultra Rare; 0
-LIOV-EN090; War Rock Spirit; Super Rare; 0
-LIOV-EN091; War Rock Generations; Common; 4
-LIOV-EN092; War Rock Big Blow; Common; 4
-LIOV-EN093; Eda the Sun Magician; Super Rare; 0
-LIOV-EN094; Staysailor Romarin; Super Rare; 0
-LIOV-EN095; D/D/D Supersight King Zero Maxwell; Common; 3
-LIOV-EN096; Binary Blader; Common; 4
-LIOV-EN097; Sunavalon Daphne; Common; 2
-LIOV-EN098; Sunavalon Melias; Super Rare; 1
-LIOV-EN099; Sunvine Cross Breed; Common; 3
-LIOV-EN100; Black Rose Dragon; Starlight Rare; 0
+IGAS-EN000; Annihilator Archfiend; Rare; 2
+IGAS-EN001; Pikari @Ignister; Secret Rare; 0
+IGAS-EN002; Bururu @Ignister; Rare; 2
+IGAS-EN003; Doyon @Ignister; Ultra Rare; 0
+IGAS-EN004; Achichi @Ignister; Secret Rare; 0
+IGAS-EN005; Hiyari @Ignister; Common; 4
+IGAS-EN006; Doshin @Ignister; Common; 3
+IGAS-EN007; Donyoribo @Ignister; Common; 3
+IGAS-EN008; Ancient Warriors - Masterful Sun Mou; Ultra Rare; 1
+IGAS-EN009; Ancient Warriors - Graceful Zhou Gong; Rare; 0
+IGAS-EN010; Ancient Warriors - Eccentric Lu Jing; Rare; 0
+IGAS-EN011; Ancient Warriors - Virtuous Liu Xuan; Ultra Rare; 1
+IGAS-EN012; Ancient Warriors - Loyal Guan Yun; Super Rare; 1
+IGAS-EN013; Ancient Warriors - Valiant Zhang De; Rare; 1
+IGAS-EN014; Karakuri Bonze mdl 9763 "Kunamzan"; Common; 3
+IGAS-EN015; Karakuri Gama mdl 4624 "Shirokunishi"; Common; 3
+IGAS-EN016; Chronomaly Tuspa Rocket; Common; 4
+IGAS-EN017; Arcjet Lightcraft; Rare; 2
+IGAS-EN018; Time Thief Chronocorder; Common; 5
+IGAS-EN019; Abominable Unchained Soul; Super Rare; 0
+IGAS-EN020; Sky Striker Ace - Roze; Ultra Rare, Alternate Rare; 1
+IGAS-EN021; Witchcrafter Genni; Super Rare; 1
+IGAS-EN022; Utgarda, Generaider Boss of Delusion; Super Rare; 2
+IGAS-EN023; Ghostrick Fairy; Common; 3
+IGAS-EN024; Gizmek Kaku, the Supreme Shining Sky Stag; Secret Rare; 0
+IGAS-EN025; Cataclysmic Crusted Calcifida; Common; 4
+IGAS-EN026; Jack-o-Bolan; Super Rare; 1
+IGAS-EN027; Ibicella Lutea; Rare; 3
+IGAS-EN028; Obsessive Uvualoop; Common; 3
+IGAS-EN029; Daruma Dropper; Common; 3
+IGAS-EN030; Transcicada; Common; 5
+IGAS-EN031; Squeaknight; Common; 4
+IGAS-EN032; Battle Survivor; Common; 2
+IGAS-EN033; Cupid Serve; Common; 1
+IGAS-EN034; Water Leviathan @Ignister; Common; 4
+IGAS-EN035; Megalith Ophiel; Super Rare; 2
+IGAS-EN036; Megalith Hagith; Common; 4
+IGAS-EN037; Megalith Och; Common; 3
+IGAS-EN038; Megalith Phaleg; Common; 2
+IGAS-EN039; Megalith Bethor; Common; 4
+IGAS-EN040; Megalith Aratron; Super Rare; 2
+IGAS-EN041; Earth Golem @Ignister; Rare; 2
+IGAS-EN042; Wind Pegasus @Ignister; Super Rare; 2
+IGAS-EN043; Karakuri Super Shogun mdl 00N "Bureibu"; Super Rare; 3
+IGAS-EN044; Light Dragon @Ignister; Super Rare; 1
+IGAS-EN045; Dark Templar @Ignister; Ultra Rare; 0
+IGAS-EN046; Fire Phoenix @Ignister; Rare; 2
+IGAS-EN047; Cross-Sheep; Rare; 2
+IGAS-EN048; Aussa the Earth Charmer, Immovable; Rare, Alternate Rare; 0
+IGAS-EN049; Gravity Controller; Common; 2
+IGAS-EN050; Ignister A.I.Land; Secret Rare; 0
+IGAS-EN051; TA.I. Strike; Common; 4
+IGAS-EN052; A.I.dle Reborn; Rare; 1
+IGAS-EN053; A.I. Love Fusion; Rare; 2
+IGAS-EN054; A.I.'s Ritual; Common; 4
+IGAS-EN055; Ancient Warriors Saga - Three Visits; Ultra Rare; 1
+IGAS-EN056; Ancient Warriors Saga - Sun-Liu Alliance; Rare; 1
+IGAS-EN057; Megalith Portal; Common; 3
+IGAS-EN058; Karakuri Gama Oil; Common; 4
+IGAS-EN059; Condolence Puppet; Common; 3
+IGAS-EN060; Charged-Up Heraldry; Common; 3
+IGAS-EN061; Time Thief Startup; Common; 3
+IGAS-EN062; Sky Striker Maneuver - Scissors Cross; Rare; 2
+IGAS-EN063; Ghost Meets Girl - A Mayakashi's Manuscript; Common; 5
+IGAS-EN064; Dragonmaid Send-Off; Common; 3
+IGAS-EN065; Disposable Learner Device; Common; 4
+IGAS-EN066; Kuji-Kiri Curse; Super Rare; 1
+IGAS-EN067; Lightning Storm; Secret Rare, Alternate Rare; 0
+IGAS-EN068; Double-Edged Sword; Common; 2
+IGAS-EN069; A.I. Shadow; Common; 4
+IGAS-EN070; Ancient Warriors Saga - Defense of Changban; Rare; 0
+IGAS-EN071; Megalith Promotion; Rare; 1
+IGAS-EN072; Megalith Emergence; Common; 5
+IGAS-EN073; Karakuri Cash Inn; Common; 3
+IGAS-EN074; Resurgam Xyz; Common; 4
+IGAS-EN075; Time Thief Retrograde; Common; 5
+IGAS-EN076; Sales Pitch; Secret Rare; 1
+IGAS-EN077; Armory Call; Common; 3
+IGAS-EN078; Mutually Affured Destruction; Common; 4
+IGAS-EN079; Fiendish Portrait; Rare; 0
+IGAS-EN080; Head Judging; Common; 2
+IGAS-EN081; Guard Ghost; Common; 4
+IGAS-EN082; Feedran, the Winds of Mischief; Common; 3
+IGAS-EN083; Nine-Lives Cat; Common; 5
+IGAS-EN084; Execution of the Contract; Common; 4
+IGAS-EN085; Whitebeard, the Plunder Patroll Helm; Ultra Rare; 0
+IGAS-EN086; Redbeard, the Plunder Patroll Matey; Ultra Rare; 0
+IGAS-EN087; Plunder Patrollship Brann; Secret Rare; 0
+IGAS-EN088; Plunder Patrollship Moerk; Secret Rare; 1
+IGAS-EN089; Blackbeard, the Plunder Patroll Captain; Ultra Rare; 0
+IGAS-EN090; Plunder Patroll Shipyarrrd; Rare; 1
+IGAS-EN091; Plunder Patroll Booty; Rare; 0
+IGAS-EN092; Shiny Black "C" Squadder; Common; 4
+IGAS-EN093; Marincess Pascalus; Super Rare; 1
+IGAS-EN094; Time Thief Perpetua; Super Rare, Alternate Rare; 1
+IGAS-EN095; Bellcat Fighter; Common; 4
+IGAS-EN096; Code Talker Inverted; Super Rare; 0
+IGAS-EN097; Linguriboh; Ultra Rare; 0
+IGAS-EN098; Link Party; Common; 4
+IGAS-EN099; Matching Outfits; Common; 3

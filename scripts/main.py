@@ -5,15 +5,36 @@ import csv
 import json
 
 csvFileName = 'Yugioh Collection Cards - True Own Cards.csv'
-yugiohApiEndpoint = 'https://db.ygoprodeck.com/api/v7/'
+yugiohApiEndpoint = 'https://db.ygoprodeck.com/'
 
 
-def getCardPrice(cardName):
+def getCardPrice(cardName, cardSet, cardRarity):
     apiResponse = requests.get(
-        yugiohApiEndpoint + 'cardinfo.php?name=' + cardName)
-    cardPrice = apiResponse.json().get('data')[0].get(
-        'card_prices')[0].get('cardmarket_price')
-    return cardPrice
+        yugiohApiEndpoint + 'queries/getPrices.php?cardone=' + cardName + "&vendor=Cardmarket")
+    sets = apiResponse.json().get('set_info')
+    price = "NA"
+    if (sets):
+        for set in sets:
+            if(cardSet == set['set']):
+                if (cardRarity == 'Starlight Rare'):
+                    print("ici")
+                    if('V2' in set['url'] or 'Version-2' in set['url']):
+                        price = set['price']
+                        break
+                else:
+                    print("la")
+                    print(set['url'])
+                    if('V2' not in set['url'] or 'Version-2' not in set['url']):
+                        price = set['price']
+                        break
+
+            # if (cardRarity == 'Starlight Rare'):
+            #     if(cardSet == set['set'] and (cardSet['url'].contains('V2') or cardSet['url'].contains('Version-2'))):
+            #         price = set['price']
+            # else:
+            #     if(cardSet == set['set']):
+            #         price = set['price']
+    return price
 
 
 def removeCardNameEOLSpaceInCsv():
@@ -39,10 +60,12 @@ def setCardmarketPriceInCsv():
     data_df = pandas.read_csv(csvFileName)
     for index, row in data_df.iterrows():
         cardName = row['Card Name']
-        print(str(index) + " - " + cardName)
+        cardSet = row['Set Name']
+        cardRarity = row['Rarity']
+        print(str(index) + " - " + cardName + " - " + cardSet)
 
-        cardPrice = getCardPrice(cardName)
-        print("\t" + 'Price : ' + cardPrice)
+        cardPrice = getCardPrice(cardName, cardSet, cardRarity)
+        print("\t" + 'Price : ' + str(cardPrice))
 
         data_df.loc[data_df['Card Name'] == cardName,
                     'Cardmarket Price'] = cardPrice

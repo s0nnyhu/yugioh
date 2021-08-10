@@ -1,100 +1,100 @@
-IGAS-EN000; Annihilator Archfiend; Rare
-IGAS-EN001; Pikari @Ignister; Secret Rare
-IGAS-EN002; Bururu @Ignister; Rare
-IGAS-EN003; Doyon @Ignister; Ultra Rare
-IGAS-EN004; Achichi @Ignister; Secret Rare
-IGAS-EN005; Hiyari @Ignister; Common
-IGAS-EN006; Doshin @Ignister; Common
-IGAS-EN007; Donyoribo @Ignister; Common
-IGAS-EN008; Ancient Warriors - Masterful Sun Mou; Ultra Rare
-IGAS-EN009; Ancient Warriors - Graceful Zhou Gong; Rare
-IGAS-EN010; Ancient Warriors - Eccentric Lu Jing; Rare
-IGAS-EN011; Ancient Warriors - Virtuous Liu Xuan; Ultra Rare
-IGAS-EN012; Ancient Warriors - Loyal Guan Yun; Super Rare
-IGAS-EN013; Ancient Warriors - Valiant Zhang De; Rare
-IGAS-EN014; Karakuri Bonze mdl 9763 "Kunamzan"; Common
-IGAS-EN015; Karakuri Gama mdl 4624 "Shirokunishi"; Common
-IGAS-EN016; Chronomaly Tuspa Rocket; Common
-IGAS-EN017; Arcjet Lightcraft; Rare
-IGAS-EN018; Time Thief Chronocorder; Common
-IGAS-EN019; Abominable Unchained Soul; Super Rare
-IGAS-EN020; Sky Striker Ace - Roze; Ultra Rare, Alternate Rare
-IGAS-EN021; Witchcrafter Genni; Super Rare
-IGAS-EN022; Utgarda, Generaider Boss of Delusion; Super Rare
-IGAS-EN023; Ghostrick Fairy; Common
-IGAS-EN024; Gizmek Kaku, the Supreme Shining Sky Stag; Secret Rare
-IGAS-EN025; Cataclysmic Crusted Calcifida; Common
-IGAS-EN026; Jack-o-Bolan; Super Rare
-IGAS-EN027; Ibicella Lutea; Rare
-IGAS-EN028; Obsessive Uvualoop; Common
-IGAS-EN029; Daruma Dropper; Common
-IGAS-EN030; Transcicada; Common
-IGAS-EN031; Squeaknight; Common
-IGAS-EN032; Battle Survivor; Common
-IGAS-EN033; Cupid Serve; Common
-IGAS-EN034; Water Leviathan @Ignister; Common
-IGAS-EN035; Megalith Ophiel; Super Rare
-IGAS-EN036; Megalith Hagith; Common
-IGAS-EN037; Megalith Och; Common
-IGAS-EN038; Megalith Phaleg; Common
-IGAS-EN039; Megalith Bethor; Common
-IGAS-EN040; Megalith Aratron; Super Rare
-IGAS-EN041; Earth Golem @Ignister; Rare
-IGAS-EN042; Wind Pegasus @Ignister; Super Rare
-IGAS-EN043; Karakuri Super Shogun mdl 00N "Bureibu"; Super Rare
-IGAS-EN044; Light Dragon @Ignister; Super Rare
-IGAS-EN045; Dark Templar @Ignister; Ultra Rare
-IGAS-EN046; Fire Phoenix @Ignister; Rare
-IGAS-EN047; Cross-Sheep; Rare
-IGAS-EN048; Aussa the Earth Charmer, Immovable; Rare, Alternate Rare
-IGAS-EN049; Gravity Controller; Common
-IGAS-EN050; Ignister A.I.Land; Secret Rare
-IGAS-EN051; TA.I. Strike; Common
-IGAS-EN052; A.I.dle Reborn; Rare
-IGAS-EN053; A.I. Love Fusion; Rare
-IGAS-EN054; A.I.'s Ritual; Common
-IGAS-EN055; Ancient Warriors Saga - Three Visits; Ultra Rare
-IGAS-EN056; Ancient Warriors Saga - Sun-Liu Alliance; Rare
-IGAS-EN057; Megalith Portal; Common
-IGAS-EN058; Karakuri Gama Oil; Common
-IGAS-EN059; Condolence Puppet; Common
-IGAS-EN060; Charged-Up Heraldry; Common
-IGAS-EN061; Time Thief Startup; Common
-IGAS-EN062; Sky Striker Maneuver - Scissors Cross; Rare
-IGAS-EN063; Ghost Meets Girl - A Mayakashi's Manuscript; Common
-IGAS-EN064; Dragonmaid Send-Off; Common
-IGAS-EN065; Disposable Learner Device; Common
-IGAS-EN066; Kuji-Kiri Curse; Super Rare
-IGAS-EN067; Lightning Storm; Secret Rare, Alternate Rare
-IGAS-EN068; Double-Edged Sword; Common
-IGAS-EN069; A.I. Shadow; Common
-IGAS-EN070; Ancient Warriors Saga - Defense of Changban; Rare
-IGAS-EN071; Megalith Promotion; Rare
-IGAS-EN072; Megalith Emergence; Common
-IGAS-EN073; Karakuri Cash Inn; Common
-IGAS-EN074; Resurgam Xyz; Common
-IGAS-EN075; Time Thief Retrograde; Common
-IGAS-EN076; Sales Pitch; Secret Rare
-IGAS-EN077; Armory Call; Common
-IGAS-EN078; Mutually Affured Destruction; Common
-IGAS-EN079; Fiendish Portrait; Rare
-IGAS-EN080; Head Judging; Common
-IGAS-EN081; Guard Ghost; Common
-IGAS-EN082; Feedran, the Winds of Mischief; Common
-IGAS-EN083; Nine-Lives Cat; Common
-IGAS-EN084; Execution of the Contract; Common
-IGAS-EN085; Whitebeard, the Plunder Patroll Helm; Ultra Rare
-IGAS-EN086; Redbeard, the Plunder Patroll Matey; Ultra Rare
-IGAS-EN087; Plunder Patrollship Brann; Secret Rare
-IGAS-EN088; Plunder Patrollship Moerk; Secret Rare
-IGAS-EN089; Blackbeard, the Plunder Patroll Captain; Ultra Rare
-IGAS-EN090; Plunder Patroll Shipyarrrd; Rare
-IGAS-EN091; Plunder Patroll Booty; Rare
-IGAS-EN092; Shiny Black "C" Squadder; Common
-IGAS-EN093; Marincess Pascalus; Super Rare
-IGAS-EN094; Time Thief Perpetua; Super Rare, Alternate Rare
-IGAS-EN095; Bellcat Fighter; Common
-IGAS-EN096; Code Talker Inverted; Super Rare
-IGAS-EN097; Linguriboh; Ultra Rare
-IGAS-EN098; Link Party; Common
-IGAS-EN099; Matching Outfits; Common
+RIRA-EN000; Capshell; Secret Rare
+RIRA-EN001; Rescue Interlacer; Common
+RIRA-EN002; Cross Debug; Common
+RIRA-EN003; Marincess Sea Horse; Ultra Rare, Alternate Rare
+RIRA-EN004; Marincess Sea Star; Common
+RIRA-EN005; DMZ Dragon; Common
+RIRA-EN006; Dinowrestler Martial Ankylo; Common
+RIRA-EN007; Dinowrestler Rambrachio; Common
+RIRA-EN008; Fortune Lady Past; Rare
+RIRA-EN009; Yosenju Sabu; Common
+RIRA-EN010; Yosenju Izna; Common
+RIRA-EN011; Mayosenju Hitot; Super Rare
+RIRA-EN012; Tenyi Spirit - Adhara; Rare
+RIRA-EN013; Tenyi Spirit - Shthana; Rare
+RIRA-EN014; Tenyi Spirit - Mapura; Rare
+RIRA-EN015; Tenyi Spirit - Nahata; Rare
+RIRA-EN016; Tenyi Spirit - Vishuda; Rare
+RIRA-EN017; Simorgh, Bird of Beginning; Common
+RIRA-EN018; Simorgh, Bird of Bringing; Rare
+RIRA-EN019; Simorgh, Bird of Calamity; Common
+RIRA-EN020; Simorgh, Bird of Protection; Common
+RIRA-EN021; Simorgh, Lord of the Storm; Super Rare
+RIRA-EN022; Simorgh of Darkness; Super Rare
+RIRA-EN023; B.E.S. Blaster Cannon Core; Super Rare
+RIRA-EN024; Vic Viper T301; Rare
+RIRA-EN025; Reptilianne Lamia; Common
+RIRA-EN026; Ranryu; Common
+RIRA-EN027; Avida, Rebuilder of Worlds; Super Rare
+RIRA-EN028; Witchcrafter Golem Aruru; Secret Rare
+RIRA-EN029; Gizmek Orochi, the Serpentron Sky Slasher; Secret Rare
+RIRA-EN030; Cataclysmic Cryonic Coldo; Common
+RIRA-EN031; Voltester; Common
+RIRA-EN032; Tlakalel, His Malevolent Majesty; Rare
+RIRA-EN033; Beatraptor; Common
+RIRA-EN034; Spirit Sculptor; Super Rare
+RIRA-EN035; Reversible Beetle; Common
+RIRA-EN036; Megistric Maginician; Common
+RIRA-EN037; Magicalibra; Common
+RIRA-EN038; Fortune Lady Every; Secret Rare
+RIRA-EN039; Borreload eXcharge Dragon; Ultra Rare
+RIRA-EN040; Marincess Blue Slug; Ultra Rare
+RIRA-EN041; Marincess Coral Anemone; Secret Rare
+RIRA-EN042; Marincess Marbled Rock; Secret Rare
+RIRA-EN043; Monk of the Tenyi; Rare
+RIRA-EN044; Shaman of the Tenyi; Ultra Rare
+RIRA-EN045; Berserker of the Tenyi; Rare
+RIRA-EN046; Wynn the Wind Charmer, Verdant; Rare, Alternate Rare
+RIRA-EN047; Linkmail Archfiend; Super Rare
+RIRA-EN048; Apollousa, Bow of the Goddess; Secret Rare, Alternate Rare
+RIRA-EN049; Defender of the Labyrinth; Common
+RIRA-EN050; Baba Barber; Common
+RIRA-EN051; Link Back; Common
+RIRA-EN052; Grid Rod; Common
+RIRA-EN053; Rising Fire; Rare
+RIRA-EN054; Fury of Fire; Common
+RIRA-EN055; Fortune Vision; Rare
+RIRA-EN056; Fortune Lady Calling; Ultra Rare
+RIRA-EN057; Yosenju Wind Worship; Common
+RIRA-EN058; Flawless Perfection of the Tenyi; Rare
+RIRA-EN059; Vessel for the Dragon Cycle; Rare
+RIRA-EN060; Elborz, the Sacred Lands of Simorgh; Common
+RIRA-EN061; Simorgh Onslaught; Common
+RIRA-EN062; Simorgh Repulsion; Common
+RIRA-EN063; Hypernova Burst; Super Rare
+RIRA-EN064; Psychic Fervor; Common
+RIRA-EN065; Blockout Curtain; Common
+RIRA-EN066; Sextet Summon; Common
+RIRA-EN067; Draw Discharge; Common
+RIRA-EN068; Marincess Wave; Ultra Rare
+RIRA-EN069; Marincess Current; Common
+RIRA-EN070; Fortune Lady Rewind; Rare
+RIRA-EN071; Yosenjus' Sword Sting; Common
+RIRA-EN072; Fists of the Unrivaled Tenyi; Rare
+RIRA-EN073; Simorgh Sky Battle; Common
+RIRA-EN074; World Legacy Bestowal; Common
+RIRA-EN075; The Return to the Normal; Common
+RIRA-EN076; Get Out!; Secret Rare
+RIRA-EN077; Storm Dragon's Return; Super Rare, Alternate Rare
+RIRA-EN078; Setuppercut; Common
+RIRA-EN079; Dwimmered Glimmer; Common
+RIRA-EN080; Fighting Dirty; Common
+RIRA-EN081; Barricadeborg Blocker; Common
+RIRA-EN082; Hraesvelgr, the Desperate Doom Eagle; Rare
+RIRA-EN083; Star Power!!; Rare
+RIRA-EN084; Fuhma Wave; Common
+RIRA-EN085; Ikelos, the Dream Mirror Sprite; Ultra Rare
+RIRA-EN086; Ikelos, the Dream Mirror Mara; Super Rare
+RIRA-EN087; Morpheus, the Dream Mirror White Knight; Super Rare
+RIRA-EN088; Morpheus, the Dream Mirror Black Knight; Ultra Rare
+RIRA-EN089; Dream Mirror of Joy; Super Rare
+RIRA-EN090; Dream Mirror of Terror; Ultra Rare
+RIRA-EN091; Dream Mirror Fantasy; Common
+RIRA-EN092; Yosenju Oroshi Channeling; Common
+RIRA-EN093; Number 29: Mannequin Cat; Common
+RIRA-EN094; Kikinagashi Fucho; Common
+RIRA-EN095; White Aura Monoceros; Super Rare
+RIRA-EN096; White Howling; Super Rare
+RIRA-EN097; F.A. Shining Star GT; Common
+RIRA-EN098; Dragunity Knight - Romulus; Ultra Rare
+RIRA-EN099; Rogue of Endymion; Common

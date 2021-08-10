@@ -17,13 +17,10 @@ def getCardPrice(cardName, cardSet, cardRarity):
         for set in sets:
             if(cardSet == set['set']):
                 if (cardRarity == 'Starlight Rare'):
-                    print("ici")
                     if('V2' in set['url'] or 'Version-2' in set['url']):
                         price = set['price']
                         break
                 else:
-                    print("la")
-                    print(set['url'])
                     if('V2' not in set['url'] or 'Version-2' not in set['url']):
                         price = set['price']
                         break

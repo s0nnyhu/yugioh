@@ -1,100 +1,101 @@
-RIRA-EN000; Capshell; Secret Rare; 1
-RIRA-EN001; Rescue Interlacer; Common; 8
-RIRA-EN002; Cross Debug; Common; 7
-RIRA-EN003; Marincess Sea Horse; Ultra Rare, Alternate Rare; 0
-RIRA-EN004; Marincess Sea Star; Common; 10
-RIRA-EN005; DMZ Dragon; Common; 5
-RIRA-EN006; Dinowrestler Martial Ankylo; Common; 6
-RIRA-EN007; Dinowrestler Rambrachio; Common; 9
-RIRA-EN008; Fortune Lady Past; Rare; 0
-RIRA-EN009; Yosenju Sabu; Common; 7
-RIRA-EN010; Yosenju Izna; Common; 8
-RIRA-EN011; Mayosenju Hitot; Super Rare; 2
-RIRA-EN012; Tenyi Spirit - Adhara; Rare; 2
-RIRA-EN013; Tenyi Spirit - Shthana; Rare; 1
-RIRA-EN014; Tenyi Spirit - Mapura; Rare; 3
-RIRA-EN015; Tenyi Spirit - Nahata; Rare; 2
-RIRA-EN016; Tenyi Spirit - Vishuda; Rare; 4
-RIRA-EN017; Simorgh, Bird of Beginning; Common; 7
-RIRA-EN018; Simorgh, Bird of Bringing; Rare; 1
-RIRA-EN019; Simorgh, Bird of Calamity; Common; 7
-RIRA-EN020; Simorgh, Bird of Protection; Common; 10
-RIRA-EN021; Simorgh, Lord of the Storm; Super Rare; 4
-RIRA-EN022; Simorgh of Darkness; Super Rare; 3
-RIRA-EN023; B.E.S. Blaster Cannon Core; Super Rare; 0
-RIRA-EN024; Vic Viper T301; Rare; 2
-RIRA-EN025; Reptilianne Lamia; Common; 8
-RIRA-EN026; Ranryu; Common; 9
-RIRA-EN027; Avida, Rebuilder of Worlds; Super Rare; 5
-RIRA-EN028; Witchcrafter Golem Aruru; Secret Rare; 1
-RIRA-EN029; Gizmek Orochi, the Serpentron Sky Slasher; Secret Rare; 1
-RIRA-EN030; Cataclysmic Cryonic Coldo; Common; 10
-RIRA-EN031; Voltester; Common; 8
-RIRA-EN032; Tlakalel, His Malevolent Majesty; Rare; 5
-RIRA-EN033; Beatraptor; Common; 5
-RIRA-EN034; Spirit Sculptor; Super Rare; 2
-RIRA-EN035; Reversible Beetle; Common; 8
-RIRA-EN036; Megistric Maginician; Common; 7
-RIRA-EN037; Magicalibra; Common; 1
-RIRA-EN038; Fortune Lady Every; Secret Rare; 0
-RIRA-EN039; Borreload eXcharge Dragon; Ultra Rare; 2
-RIRA-EN040; Marincess Blue Slug; Ultra Rare; 0
-RIRA-EN041; Marincess Coral Anemone; Secret Rare; 0
-RIRA-EN042; Marincess Marbled Rock; Secret Rare; 0
-RIRA-EN043; Monk of the Tenyi; Rare; 2
-RIRA-EN044; Shaman of the Tenyi; Ultra Rare; 1
-RIRA-EN045; Berserker of the Tenyi; Rare; 2
-RIRA-EN046; Wynn the Wind Charmer, Verdant; Rare, Alternate Rare; 2
-RIRA-EN047; Linkmail Archfiend; Super Rare; 3
-RIRA-EN048; Apollousa, Bow of the Goddess; Secret Rare, Alternate Rare; 1
-RIRA-EN049; Defender of the Labyrinth; Common; 7
-RIRA-EN050; Baba Barber; Common; 4
-RIRA-EN051; Link Back; Common; 5
-RIRA-EN052; Grid Rod; Common; 6
-RIRA-EN053; Rising Fire; Rare; 5
-RIRA-EN054; Fury of Fire; Common; 8
-RIRA-EN055; Fortune Vision; Rare; 4
-RIRA-EN056; Fortune Lady Calling; Ultra Rare; 0
-RIRA-EN057; Yosenju Wind Worship; Common; 6
-RIRA-EN058; Flawless Perfection of the Tenyi; Rare; 3
-RIRA-EN059; Vessel for the Dragon Cycle; Rare; 1
-RIRA-EN060; Elborz, the Sacred Lands of Simorgh; Common; 7
-RIRA-EN061; Simorgh Onslaught; Common; 7
-RIRA-EN062; Simorgh Repulsion; Common; 7
-RIRA-EN063; Hypernova Burst; Super Rare; 1
-RIRA-EN064; Psychic Fervor; Common; 6
-RIRA-EN065; Blockout Curtain; Common; 6
-RIRA-EN066; Sextet Summon; Common; 2
-RIRA-EN067; Draw Discharge; Common; 7
-RIRA-EN068; Marincess Wave; Ultra Rare; 0
-RIRA-EN069; Marincess Current; Common; 8
-RIRA-EN070; Fortune Lady Rewind; Rare; 2
-RIRA-EN071; Yosenjus' Sword Sting; Common; 8
-RIRA-EN072; Fists of the Unrivaled Tenyi; Rare; 3
-RIRA-EN073; Simorgh Sky Battle; Common; 8
-RIRA-EN074; World Legacy Bestowal; Common; 7
-RIRA-EN075; The Return to the Normal; Common; 4
-RIRA-EN076; Get Out!; Secret Rare; 0
-RIRA-EN077; Storm Dragon's Return; Super Rare, Alternate Rare; 1
-RIRA-EN078; Setuppercut; Common; 10
-RIRA-EN079; Dwimmered Glimmer; Common; 9
-RIRA-EN080; Fighting Dirty; Common; 4
-RIRA-EN081; Barricadeborg Blocker; Common; 7
-RIRA-EN082; Hraesvelgr, the Desperate Doom Eagle; Rare; 2
-RIRA-EN083; Star Power!!; Rare; 2
-RIRA-EN084; Fuhma Wave; Common; 8
-RIRA-EN085; Ikelos, the Dream Mirror Sprite; Ultra Rare; 0
-RIRA-EN086; Ikelos, the Dream Mirror Mara; Super Rare; 2
-RIRA-EN087; Morpheus, the Dream Mirror White Knight; Super Rare; 2
-RIRA-EN088; Morpheus, the Dream Mirror Black Knight; Ultra Rare; 1
-RIRA-EN089; Dream Mirror of Joy; Super Rare; 3
-RIRA-EN090; Dream Mirror of Terror; Ultra Rare; 3
-RIRA-EN091; Dream Mirror Fantasy; Common; 8
-RIRA-EN092; Yosenju Oroshi Channeling; Common; 9
-RIRA-EN093; Number 29: Mannequin Cat; Common; 7
-RIRA-EN094; Kikinagashi Fucho; Common; 7
-RIRA-EN095; White Aura Monoceros; Super Rare; 3
-RIRA-EN096; White Howling; Super Rare; 4
-RIRA-EN097; F.A. Shining Star GT; Common; 6
-RIRA-EN098; Dragunity Knight - Romulus; Ultra Rare; 2
-RIRA-EN099; Rogue of Endymion; Common; 8
+BLVO-EN000; War Rock Mountain; Secret Rare; 1
+BLVO-EN001; Armed Dragon Thunder LV10; Secret Rare, Starlight Rare; 0
+BLVO-EN002; Armed Dragon Thunder LV7; Ultra Rare; 0
+BLVO-EN003; Armed Dragon Thunder LV5; Super Rare; 0
+BLVO-EN004; Armed Dragon Thunder LV3; Super Rare; 1
+BLVO-EN005; Armed Dragon LV10 White; Ultra Rare; 0
+BLVO-EN006; Springans Rockey; Common; 4
+BLVO-EN007; Springans Pedor; Common; 5
+BLVO-EN008; Springans Branga; Common; 3
+BLVO-EN009; Springans Captain Sargas; Common; 3
+BLVO-EN010; Tri-Brigade Kitt; Super Rare; 0
+BLVO-EN011; S-Force Rappa Chiyomaru; Secret Rare; 0
+BLVO-EN012; S-Force Professor DiGamma; Common; 2
+BLVO-EN013; S-Force Orrafist; Super Rare; 1
+BLVO-EN014; S-Force Gravitino; Ultra Rare; 0
+BLVO-EN015; S-Force Pla-Tina; Ultra Rare; 1
+BLVO-EN016; Windwitch - Blizzard Bell; Common; 4
+BLVO-EN017; Windwitch - Freeze Bell; Ultra Rare; 0
+BLVO-EN018; Fabled Marcosia; Common; 4
+BLVO-EN019; The Fabled Abanc; Common; 2
+BLVO-EN020; Parametalfoes Melcaster; Common; 4
+BLVO-EN021; Metalfoes Vanisher; Super Rare; 0
+BLVO-EN022; Constellar Caduceus; Super Rare; 1
+BLVO-EN023; Digital Bug Registrider; Common; 4
+BLVO-EN024; Maha Vailo, Light of the Heavens; Super Rare; 1
+BLVO-EN025; Ancient Warriors - Rebellious Lu Feng; Super Rare; 2
+BLVO-EN026; Neiroy, the Dream Mirror Disciple; Common; 3
+BLVO-EN027; Machina Unclaspare; Common; 4
+BLVO-EN028; Live☆Twin Lil-la Treat; Ultra Rare, Starlight Rare; 0
+BLVO-EN029; Heavenly Zephyr - Miradora; Secret Rare, Starlight Rare; 0
+BLVO-EN030; Fairy Archer Ingunar; Common; 4
+BLVO-EN031; Radiant Vouirescence; Common; 4
+BLVO-EN032; Gigathunder Giclops; Common; 4
+BLVO-EN033; Amanokujaki; Common; 3
+BLVO-EN034; Guitar Gurnards Duonigis; Common; 4
+BLVO-EN035; Wightbaking; Super Rare; 1
+BLVO-EN036; Ojama Pink; Common; 5
+BLVO-EN037; Knight of Armor Dragon; Common; 5
+BLVO-EN038; Sprind the Irondash Dragon; Common; 5
+BLVO-EN039; Parametalfoes Azortless; Super Rare; 0
+BLVO-EN040; Eldlich the Mad Golden Lord; Secret Rare; 1
+BLVO-EN041; Dual Avatar - Empowered Mitsu-Jaku; Ultra Rare; 0
+BLVO-EN042; Oneiros, the Dream Mirror Tormentor; Super Rare; 1
+BLVO-EN043; Windwitch - Diamond Bell; Ultra Rare; 1
+BLVO-EN044; Fabled Andwraith; Super Rare; 0
+BLVO-EN045; Dragunity Knight - Gormfaobhar; Super Rare; 1
+BLVO-EN046; Springans Ship - Exblowrer; Ultra Rare; 0
+BLVO-EN047; Sacred Tree Beast, Hyperyton; Super Rare; 0
+BLVO-EN048; S-Force Justify; Ultra Rare; 0
+BLVO-EN049; Heavymetalfoes Amalgam; Common; 5
+BLVO-EN050; Underworld Goddess of the Closed World; Secret Rare; 0
+BLVO-EN051; Armed Dragon Flash; Secret Rare; 0
+BLVO-EN052; Armed Dragon Blitz; Common; 4
+BLVO-EN053; Armed Dragon Lightning; Common; 4
+BLVO-EN054; Springans Watch; Super Rare; 0
+BLVO-EN055; Great Sand Sea - Gold Golgonda; Super Rare; 0
+BLVO-EN056; Tri-Brigade Rendezvous; Common; 4
+BLVO-EN057; S-Force Bridgehead; Secret Rare; 0
+BLVO-EN058; S-Force Showdown; Common; 3
+BLVO-EN059; Windwitch Chimes; Super Rare; 0
+BLVO-EN060; Stairway to a Fabled Realm; Common; 4
+BLVO-EN061; Parametalfoes Fusion; Common; 5
+BLVO-EN062; Seven Cities of the Golden Land; Ultra Rare; 1
+BLVO-EN063; Archfiend's Staff of Despair; Common; 4
+BLVO-EN064; Armor Dragon Ritual; Common; 4
+BLVO-EN065; Pot of Prosperity; Secret Rare, Starlight Rare; 0
+BLVO-EN066; Tilted Try; Common; 4
+BLVO-EN067; Armed Dragon Thunderbolt; Super Rare; 0
+BLVO-EN068; Springans Call!; Common; 4
+BLVO-EN069; Springans Blast!; Common; 4
+BLVO-EN070; Dogmatika Genesis; Common; 4
+BLVO-EN071; S-Force Specimen; Common; 4
+BLVO-EN072; Icy Breeze Refrain; Common; 5
+BLVO-EN073; Fabled Treason; Common; 2
+BLVO-EN074; Ancient Warriors Saga - Chivalrous Path; Common; 3
+BLVO-EN075; Virtual World Gate - Xuanwu; Common; 4
+BLVO-EN076; Dual Avatar Ascendance; Common; 5
+BLVO-EN077; Dream Mirror Recap; Common; 4
+BLVO-EN078; E.M.R.; Super Rare; 1
+BLVO-EN079; Angel Statue - Azurune; Super Rare; 1
+BLVO-EN080; Linear Equation Cannon; Common; 3
+BLVO-EN081; Materiactor Gigadra; Super Rare; 2
+BLVO-EN082; Raging Storm Dragon - Beaufort IX; Common; 4
+BLVO-EN083; Coordius the Triphasic Dealmon; Ultra Rare; 0
+BLVO-EN084; Materiactor Gigaboros; Super Rare; 1
+BLVO-EN085; Steel Star Regulator; Common; 4
+BLVO-EN086; Breath of Acclamation; Common; 5
+BLVO-EN087; Greater Polymerization; Ultra Rare; 1
+BLVO-EN088; Reinforcement of the Army's Troops; Common; 4
+BLVO-EN089; Psychic Eraser Laser; Super Rare; 1
+BLVO-EN090; Synchro Transmission; Common; 4
+BLVO-EN091; Pendulum Encore; Common; 4
+BLVO-EN092; Underdog; Secret Rare; 0
+BLVO-EN093; War Rock Fortia; Super Rare; 2
+BLVO-EN094; War Rock Gactos; Super Rare; 0
+BLVO-EN095; War Rock Orpis; Common; 3
+BLVO-EN096; War Rock Skyler; Common; 3
+BLVO-EN097; War Rock Bashileos; Ultra Rare; 0
+BLVO-EN098; War Rock Ordeal; Common; 2
+BLVO-EN099; Virtual World Oto-Hime - Toutou; Super Rare; 1
+BLVO-EN100; Trishula, Dragon of the Ice Barrier; Starlight Rare

@@ -1,101 +1,60 @@
-BLVO-EN000; War Rock Mountain; Secret Rare; 1
-BLVO-EN001; Armed Dragon Thunder LV10; Secret Rare, Starlight Rare; 0
-BLVO-EN002; Armed Dragon Thunder LV7; Ultra Rare; 0
-BLVO-EN003; Armed Dragon Thunder LV5; Super Rare; 0
-BLVO-EN004; Armed Dragon Thunder LV3; Super Rare; 1
-BLVO-EN005; Armed Dragon LV10 White; Ultra Rare; 0
-BLVO-EN006; Springans Rockey; Common; 4
-BLVO-EN007; Springans Pedor; Common; 5
-BLVO-EN008; Springans Branga; Common; 3
-BLVO-EN009; Springans Captain Sargas; Common; 3
-BLVO-EN010; Tri-Brigade Kitt; Super Rare; 0
-BLVO-EN011; S-Force Rappa Chiyomaru; Secret Rare; 0
-BLVO-EN012; S-Force Professor DiGamma; Common; 2
-BLVO-EN013; S-Force Orrafist; Super Rare; 1
-BLVO-EN014; S-Force Gravitino; Ultra Rare; 0
-BLVO-EN015; S-Force Pla-Tina; Ultra Rare; 1
-BLVO-EN016; Windwitch - Blizzard Bell; Common; 4
-BLVO-EN017; Windwitch - Freeze Bell; Ultra Rare; 0
-BLVO-EN018; Fabled Marcosia; Common; 4
-BLVO-EN019; The Fabled Abanc; Common; 2
-BLVO-EN020; Parametalfoes Melcaster; Common; 4
-BLVO-EN021; Metalfoes Vanisher; Super Rare; 0
-BLVO-EN022; Constellar Caduceus; Super Rare; 1
-BLVO-EN023; Digital Bug Registrider; Common; 4
-BLVO-EN024; Maha Vailo, Light of the Heavens; Super Rare; 1
-BLVO-EN025; Ancient Warriors - Rebellious Lu Feng; Super Rare; 2
-BLVO-EN026; Neiroy, the Dream Mirror Disciple; Common; 3
-BLVO-EN027; Machina Unclaspare; Common; 4
-BLVO-EN028; Live☆Twin Lil-la Treat; Ultra Rare, Starlight Rare; 0
-BLVO-EN029; Heavenly Zephyr - Miradora; Secret Rare, Starlight Rare; 0
-BLVO-EN030; Fairy Archer Ingunar; Common; 4
-BLVO-EN031; Radiant Vouirescence; Common; 4
-BLVO-EN032; Gigathunder Giclops; Common; 4
-BLVO-EN033; Amanokujaki; Common; 3
-BLVO-EN034; Guitar Gurnards Duonigis; Common; 4
-BLVO-EN035; Wightbaking; Super Rare; 1
-BLVO-EN036; Ojama Pink; Common; 5
-BLVO-EN037; Knight of Armor Dragon; Common; 5
-BLVO-EN038; Sprind the Irondash Dragon; Common; 5
-BLVO-EN039; Parametalfoes Azortless; Super Rare; 0
-BLVO-EN040; Eldlich the Mad Golden Lord; Secret Rare; 1
-BLVO-EN041; Dual Avatar - Empowered Mitsu-Jaku; Ultra Rare; 0
-BLVO-EN042; Oneiros, the Dream Mirror Tormentor; Super Rare; 1
-BLVO-EN043; Windwitch - Diamond Bell; Ultra Rare; 1
-BLVO-EN044; Fabled Andwraith; Super Rare; 0
-BLVO-EN045; Dragunity Knight - Gormfaobhar; Super Rare; 1
-BLVO-EN046; Springans Ship - Exblowrer; Ultra Rare; 0
-BLVO-EN047; Sacred Tree Beast, Hyperyton; Super Rare; 0
-BLVO-EN048; S-Force Justify; Ultra Rare; 0
-BLVO-EN049; Heavymetalfoes Amalgam; Common; 5
-BLVO-EN050; Underworld Goddess of the Closed World; Secret Rare; 0
-BLVO-EN051; Armed Dragon Flash; Secret Rare; 0
-BLVO-EN052; Armed Dragon Blitz; Common; 4
-BLVO-EN053; Armed Dragon Lightning; Common; 4
-BLVO-EN054; Springans Watch; Super Rare; 0
-BLVO-EN055; Great Sand Sea - Gold Golgonda; Super Rare; 0
-BLVO-EN056; Tri-Brigade Rendezvous; Common; 4
-BLVO-EN057; S-Force Bridgehead; Secret Rare; 0
-BLVO-EN058; S-Force Showdown; Common; 3
-BLVO-EN059; Windwitch Chimes; Super Rare; 0
-BLVO-EN060; Stairway to a Fabled Realm; Common; 4
-BLVO-EN061; Parametalfoes Fusion; Common; 5
-BLVO-EN062; Seven Cities of the Golden Land; Ultra Rare; 1
-BLVO-EN063; Archfiend's Staff of Despair; Common; 4
-BLVO-EN064; Armor Dragon Ritual; Common; 4
-BLVO-EN065; Pot of Prosperity; Secret Rare, Starlight Rare; 0
-BLVO-EN066; Tilted Try; Common; 4
-BLVO-EN067; Armed Dragon Thunderbolt; Super Rare; 0
-BLVO-EN068; Springans Call!; Common; 4
-BLVO-EN069; Springans Blast!; Common; 4
-BLVO-EN070; Dogmatika Genesis; Common; 4
-BLVO-EN071; S-Force Specimen; Common; 4
-BLVO-EN072; Icy Breeze Refrain; Common; 5
-BLVO-EN073; Fabled Treason; Common; 2
-BLVO-EN074; Ancient Warriors Saga - Chivalrous Path; Common; 3
-BLVO-EN075; Virtual World Gate - Xuanwu; Common; 4
-BLVO-EN076; Dual Avatar Ascendance; Common; 5
-BLVO-EN077; Dream Mirror Recap; Common; 4
-BLVO-EN078; E.M.R.; Super Rare; 1
-BLVO-EN079; Angel Statue - Azurune; Super Rare; 1
-BLVO-EN080; Linear Equation Cannon; Common; 3
-BLVO-EN081; Materiactor Gigadra; Super Rare; 2
-BLVO-EN082; Raging Storm Dragon - Beaufort IX; Common; 4
-BLVO-EN083; Coordius the Triphasic Dealmon; Ultra Rare; 0
-BLVO-EN084; Materiactor Gigaboros; Super Rare; 1
-BLVO-EN085; Steel Star Regulator; Common; 4
-BLVO-EN086; Breath of Acclamation; Common; 5
-BLVO-EN087; Greater Polymerization; Ultra Rare; 1
-BLVO-EN088; Reinforcement of the Army's Troops; Common; 4
-BLVO-EN089; Psychic Eraser Laser; Super Rare; 1
-BLVO-EN090; Synchro Transmission; Common; 4
-BLVO-EN091; Pendulum Encore; Common; 4
-BLVO-EN092; Underdog; Secret Rare; 0
-BLVO-EN093; War Rock Fortia; Super Rare; 2
-BLVO-EN094; War Rock Gactos; Super Rare; 0
-BLVO-EN095; War Rock Orpis; Common; 3
-BLVO-EN096; War Rock Skyler; Common; 3
-BLVO-EN097; War Rock Bashileos; Ultra Rare; 0
-BLVO-EN098; War Rock Ordeal; Common; 2
-BLVO-EN099; Virtual World Oto-Hime - Toutou; Super Rare; 1
-BLVO-EN100; Trishula, Dragon of the Ice Barrier; Starlight Rare
+ANGU-EN001; Nunu, the Ogdoadic Remnant; Super Rare; 3
+ANGU-EN002; Nauya, the Ogdoadic Remnant; Super Rare; 2
+ANGU-EN003; Flogos, the Ogdoadic Boundless; Rare; 8
+ANGU-EN004; Zohah, the Ogdoadic Boundless; Rare; 6
+ANGU-EN005; Keurse, the Ogdoadic Light; Super Rare; 2
+ANGU-EN006; Aleirtt, the Ogdoadic Dark; Super Rare; 3
+ANGU-EN007; Aron, the Ogdoadic King; Ultra Rare, Collector's Rare; 2
+ANGU-EN008; Amunessia, the Ogdoadic Queen; Ultra Rare, Collector's Rare; 0
+ANGU-EN009; Ogdoabyss, the Ogdoadic Overlord; Ultra Rare, Collector's Rare; 0
+ANGU-EN010; Ogdoadic Water Lily; Super Rare; 1
+ANGU-EN011; Ogdoadic Origin; Rare; 7
+ANGU-EN012; Ogdoadic Hollow; Rare; 6
+ANGU-EN013; Ogdoadic Calling; Rare; 7
+ANGU-EN014; DoSolfachord Cutia; Super Rare; 4
+ANGU-EN015; ReSolfachord Dreamia; Rare; 7
+ANGU-EN016; MiSolfachord Eliteia; Rare; 7
+ANGU-EN017; FaSolfachord Fancia; Ultra Rare, Collector's Rare; 1
+ANGU-EN018; SolSolfachord Gracia; Super Rare, Collector's Rare; 4
+ANGU-EN019; LaSolfachord Angelia; Super Rare; 2
+ANGU-EN020; TiSolfachord Beautia; Ultra Rare, Collector's Rare; 0
+ANGU-EN021; DoSolfachord Coolia; Ultra Rare, Collector's Rare; 1
+ANGU-EN022; Solfachord Elegance; Super Rare; 3
+ANGU-EN023; Solfachord Scale; Rare; 7
+ANGU-EN024; Solfachord Harmonia; Super Rare; 3
+ANGU-EN025; Solfachord Musica; Rare; 7
+ANGU-EN026; Solfachord Formal; Rare; 7
+ANGU-EN027; Ursarctic Mikpolar; Super Rare; 3
+ANGU-EN028; Ursarctic Miktanus; Super Rare ; 5
+ANGU-EN029; Ursarctic Mikbilis; Super Rare; 2
+ANGU-EN030; Ursarctic Megapolar; Rare; 6
+ANGU-EN031; Ursarctic Megatanus; Rare; 7
+ANGU-EN032; Ursarctic Megabilis; Rare; 9
+ANGU-EN033; Ursarctic Polari; Ultra Rare, Collector's Rare; 0
+ANGU-EN034; Ursarctic Septentrion; Ultra Rare, Collector's Rare; 2
+ANGU-EN035; Ursarctic Grand Chariot; Ultra Rare, Collector's Rare; 0
+ANGU-EN036; Ursarctic Departure; Super Rare; 2
+ANGU-EN037; Ursarctic Slider; Super Rare; 3
+ANGU-EN038; Ursarctic Big Dipper; Ultra Rare; 0
+ANGU-EN039; Ursarctic Quint Charge; Rare; 8
+ANGU-EN040; Vennominon the King of Poisonous Snakes; Rare; 6
+ANGU-EN041; Vennominaga the Deity of Poisonous Snakes; Rare, Collector's Rare; 6
+ANGU-EN042; Evil Dragon Ananta; Rare; 7
+ANGU-EN043; Skull Meister; Rare, Collector's Rare; 7
+ANGU-EN044; Lightserpent; Rare; 7
+ANGU-EN045; Luster Pendulum, the Dracoslayer; Rare; 9
+ANGU-EN046; Dinowrestler Pankratops; Rare, Collector's Rare; 10
+ANGU-EN047; Dinoster Power, the Mighty Dracoslayer; Rare; 10
+ANGU-EN048; Ignister Prominence, the Blasting Dracoslayer; Rare; 10
+ANGU-EN049; King of the Feral Imps; Rare; 10
+ANGU-EN050; Majester Paladin, the Ascending Dracoslayer; Rare; 10
+ANGU-EN051; Snake Rain; Rare, Collector's Rare; 10
+ANGU-EN052; Trade-In; Rare, Collector's Rare; 9
+ANGU-EN053; Viper's Rebirth; Rare; 10
+ANGU-EN054; Ayers Rock Sunrise; Rare; 10
+ANGU-EN055; Pot of Riches; Rare; 9
+ANGU-EN056; Wavering Eyes; Rare; 9
+ANGU-EN057; Igknight Reload; Rare; 9
+ANGU-EN058; Damage {{=}} Reptile; Rare; 10
+ANGU-EN059; Rise of the Snake Deity; Rare; 11
+ANGU-EN060; Offering to the Snake Deity; Rare; 10

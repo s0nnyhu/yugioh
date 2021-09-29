@@ -1,0 +1,68 @@
+function getPrices() {
+
+/**
+ * Copy data from 'True Own Cards' to 'Own Cards'
+ */
+   var ss = SpreadsheetApp.getActiveSpreadsheet();
+   var source = ss.getSheetByName('True Own Cards');
+   var dest = ss.getSheetByName('Own Cards');
+
+     // Get full range of data
+  var SRange = source.getDataRange();
+  var A1Range = SRange.getA1Notation();
+  var SData = SRange.getValues();
+  //sheet.copyTo(dest, {contentsOnly:true});
+  dest.getRange(A1Range).setValues(SData);
+ 
+
+/**
+ * Get all cards from sheet
+ */
+  var sheet = ss.getSheetByName('Own Cards'); //The name of the sheet tab where you are sending the info
+  var nbRows = sheet.getLastRow();
+  var cards = [];
+  for (let i = 2; i<=nbRows; i++) {
+    let card = {
+      "name" : "",
+      "set": "",
+      "rarity": ""
+    };
+    card.set = sheet.getRange(i,2).getValue();
+    card.name = sheet.getRange(i,5).getValue();
+    card.rarity = sheet.getRange(i,6).getValue();
+
+    cards.push(card);
+  }
+
+/**
+ * Getting price for each card and updating cell
+ */
+  var total = 0;
+  cards.forEach((card, index) => {
+    var encodedCardname =  encodeURIComponent(card.name);
+    var response = UrlFetchApp.fetch(`https://db.ygoprodeck.com/queries/getPrices.php?cardone=${encodedCardname}&vendor=Cardmarket`);
+    var json = response.getContentText();
+    var data = JSON.parse(json);
+    
+    var allPrices = [];
+    var price = "NA";
+
+    if (data['set_info'] !== null) {
+      data["set_info"].forEach(set => {
+        if (card.set == set["set"]) {
+          allPrices.push(set['price']);
+        }
+      })
+      if (card.rarity == 'Starlight Rare') {
+        price = Math.max(...allPrices);
+        total = total + (price * card.quantity || price);
+      } else {
+        price = Math.min(...allPrices);
+        total = total + (price * card.quantity || price);
+      }
+    }
+    Logger.log(card.name + " : " + price);
+    sheet.getRange(index+2,9).setValue(price);
+  });
+  Logger.log("Total : " + total);
+}

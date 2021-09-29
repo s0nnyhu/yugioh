@@ -1,0 +1,60 @@
+ANGU-EN001; Nunu, the Ogdoadic Remnant; Super Rare
+ANGU-EN002; Nauya, the Ogdoadic Remnant; Super Rare
+ANGU-EN003; Flogos, the Ogdoadic Boundless; Rare
+ANGU-EN004; Zohah, the Ogdoadic Boundless; Rare
+ANGU-EN005; Keurse, the Ogdoadic Light; Super Rare
+ANGU-EN006; Aleirtt, the Ogdoadic Dark; Super Rare
+ANGU-EN007; Aron, the Ogdoadic King; Ultra Rare, Collector's Rare
+ANGU-EN008; Amunessia, the Ogdoadic Queen; Ultra Rare, Collector's Rare
+ANGU-EN009; Ogdoabyss, the Ogdoadic Overlord; Ultra Rare, Collector's Rare
+ANGU-EN010; Ogdoadic Water Lily; Super Rare
+ANGU-EN011; Ogdoadic Origin; Rare
+ANGU-EN012; Ogdoadic Hollow; Rare
+ANGU-EN013; Ogdoadic Calling; Rare
+ANGU-EN014; DoSolfachord Cutia; Super Rare
+ANGU-EN015; ReSolfachord Dreamia; Rare
+ANGU-EN016; MiSolfachord Eliteia; Rare
+ANGU-EN017; FaSolfachord Fancia; Ultra Rare, Collector's Rare
+ANGU-EN018; SolSolfachord Gracia; Super Rare, Collector's Rare
+ANGU-EN019; LaSolfachord Angelia; Super Rare
+ANGU-EN020; TiSolfachord Beautia; Ultra Rare, Collector's Rare
+ANGU-EN021; DoSolfachord Coolia; Ultra Rare, Collector's Rare
+ANGU-EN022; Solfachord Elegance; Super Rare
+ANGU-EN023; Solfachord Scale; Rare
+ANGU-EN024; Solfachord Harmonia; Super Rare
+ANGU-EN025; Solfachord Musica; Rare
+ANGU-EN026; Solfachord Formal; Rare
+ANGU-EN027; Ursarctic Mikpolar; Super Rare
+ANGU-EN028; Ursarctic Miktanus; Super Rare 
+ANGU-EN029; Ursarctic Mikbilis; Super Rare
+ANGU-EN030; Ursarctic Megapolar; Rare
+ANGU-EN031; Ursarctic Megatanus; Rare
+ANGU-EN032; Ursarctic Megabilis; Rare
+ANGU-EN033; Ursarctic Polari; Ultra Rare, Collector's Rare
+ANGU-EN034; Ursarctic Septentrion; Ultra Rare, Collector's Rare
+ANGU-EN035; Ursarctic Grand Chariot; Ultra Rare, Collector's Rare
+ANGU-EN036; Ursarctic Departure; Super Rare
+ANGU-EN037; Ursarctic Slider; Super Rare
+ANGU-EN038; Ursarctic Big Dipper; Ultra Rare
+ANGU-EN039; Ursarctic Quint Charge; Rare
+ANGU-EN040; Vennominon the King of Poisonous Snakes; Rare
+ANGU-EN041; Vennominaga the Deity of Poisonous Snakes; Rare, Collector's Rare
+ANGU-EN042; Evil Dragon Ananta; Rare
+ANGU-EN043; Skull Meister; Rare, Collector's Rare
+ANGU-EN044; Lightserpent; Rare
+ANGU-EN045; Luster Pendulum, the Dracoslayer; Rare
+ANGU-EN046; Dinowrestler Pankratops; Rare, Collector's Rare
+ANGU-EN047; Dinoster Power, the Mighty Dracoslayer; Rare
+ANGU-EN048; Ignister Prominence, the Blasting Dracoslayer; Rare
+ANGU-EN049; King of the Feral Imps; Rare
+ANGU-EN050; Majester Paladin, the Ascending Dracoslayer; Rare
+ANGU-EN051; Snake Rain; Rare, Collector's Rare
+ANGU-EN052; Trade-In; Rare, Collector's Rare
+ANGU-EN053; Viper's Rebirth; Rare
+ANGU-EN054; Ayers Rock Sunrise; Rare
+ANGU-EN055; Pot of Riches; Rare
+ANGU-EN056; Wavering Eyes; Rare
+ANGU-EN057; Igknight Reload; Rare
+ANGU-EN058; Damage {{=}} Reptile; Rare
+ANGU-EN059; Rise of the Snake Deity; Rare
+ANGU-EN060; Offering to the Snake Deity; Rare

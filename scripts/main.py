@@ -21,9 +21,10 @@ def getCardPrice(cardName, cardSet, cardRarity):
                 allPrices.append(set['price'])
         # Starlight check
         if (cardRarity == 'Starlight Rare'):
-            price = max(allPrices)
+            price = max(allPrices, default='NA')
         else:
-            price = min(allPrices)
+            print(allPrices)
+            price = min(allPrices, default='NA')
     return price
 
 

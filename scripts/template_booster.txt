@@ -1,60 +1,60 @@
-ANGU-EN001; Nunu, the Ogdoadic Remnant; Super Rare
-ANGU-EN002; Nauya, the Ogdoadic Remnant; Super Rare
-ANGU-EN003; Flogos, the Ogdoadic Boundless; Rare
-ANGU-EN004; Zohah, the Ogdoadic Boundless; Rare
-ANGU-EN005; Keurse, the Ogdoadic Light; Super Rare
-ANGU-EN006; Aleirtt, the Ogdoadic Dark; Super Rare
-ANGU-EN007; Aron, the Ogdoadic King; Ultra Rare, Collector's Rare
-ANGU-EN008; Amunessia, the Ogdoadic Queen; Ultra Rare, Collector's Rare
-ANGU-EN009; Ogdoabyss, the Ogdoadic Overlord; Ultra Rare, Collector's Rare
-ANGU-EN010; Ogdoadic Water Lily; Super Rare
-ANGU-EN011; Ogdoadic Origin; Rare
-ANGU-EN012; Ogdoadic Hollow; Rare
-ANGU-EN013; Ogdoadic Calling; Rare
-ANGU-EN014; DoSolfachord Cutia; Super Rare
-ANGU-EN015; ReSolfachord Dreamia; Rare
-ANGU-EN016; MiSolfachord Eliteia; Rare
-ANGU-EN017; FaSolfachord Fancia; Ultra Rare, Collector's Rare
-ANGU-EN018; SolSolfachord Gracia; Super Rare, Collector's Rare
-ANGU-EN019; LaSolfachord Angelia; Super Rare
-ANGU-EN020; TiSolfachord Beautia; Ultra Rare, Collector's Rare
-ANGU-EN021; DoSolfachord Coolia; Ultra Rare, Collector's Rare
-ANGU-EN022; Solfachord Elegance; Super Rare
-ANGU-EN023; Solfachord Scale; Rare
-ANGU-EN024; Solfachord Harmonia; Super Rare
-ANGU-EN025; Solfachord Musica; Rare
-ANGU-EN026; Solfachord Formal; Rare
-ANGU-EN027; Ursarctic Mikpolar; Super Rare
-ANGU-EN028; Ursarctic Miktanus; Super Rare 
-ANGU-EN029; Ursarctic Mikbilis; Super Rare
-ANGU-EN030; Ursarctic Megapolar; Rare
-ANGU-EN031; Ursarctic Megatanus; Rare
-ANGU-EN032; Ursarctic Megabilis; Rare
-ANGU-EN033; Ursarctic Polari; Ultra Rare, Collector's Rare
-ANGU-EN034; Ursarctic Septentrion; Ultra Rare, Collector's Rare
-ANGU-EN035; Ursarctic Grand Chariot; Ultra Rare, Collector's Rare
-ANGU-EN036; Ursarctic Departure; Super Rare
-ANGU-EN037; Ursarctic Slider; Super Rare
-ANGU-EN038; Ursarctic Big Dipper; Ultra Rare
-ANGU-EN039; Ursarctic Quint Charge; Rare
-ANGU-EN040; Vennominon the King of Poisonous Snakes; Rare
-ANGU-EN041; Vennominaga the Deity of Poisonous Snakes; Rare, Collector's Rare
-ANGU-EN042; Evil Dragon Ananta; Rare
-ANGU-EN043; Skull Meister; Rare, Collector's Rare
-ANGU-EN044; Lightserpent; Rare
-ANGU-EN045; Luster Pendulum, the Dracoslayer; Rare
-ANGU-EN046; Dinowrestler Pankratops; Rare, Collector's Rare
-ANGU-EN047; Dinoster Power, the Mighty Dracoslayer; Rare
-ANGU-EN048; Ignister Prominence, the Blasting Dracoslayer; Rare
-ANGU-EN049; King of the Feral Imps; Rare
-ANGU-EN050; Majester Paladin, the Ascending Dracoslayer; Rare
-ANGU-EN051; Snake Rain; Rare, Collector's Rare
-ANGU-EN052; Trade-In; Rare, Collector's Rare
-ANGU-EN053; Viper's Rebirth; Rare
-ANGU-EN054; Ayers Rock Sunrise; Rare
-ANGU-EN055; Pot of Riches; Rare
-ANGU-EN056; Wavering Eyes; Rare
-ANGU-EN057; Igknight Reload; Rare
-ANGU-EN058; Damage {{=}} Reptile; Rare
-ANGU-EN059; Rise of the Snake Deity; Rare
-ANGU-EN060; Offering to the Snake Deity; Rare
+GEIM-EN001; Crowley, the Magistus of Grimoires; Super Rare
+GEIM-EN002; Zoroa, the Magistus of Flame; Ultra Rare
+GEIM-EN003; Rilliona, the Magistus of Verre; Ultra Rare, Collector's Rare
+GEIM-EN004; Endymion, the Magistus of Mastery; Rare
+GEIM-EN005; Aiwass, the Magistus Spell Spirit; Super Rare
+GEIM-EN006; Vahram, the Magistus Divinity Dragon; Super Rare
+GEIM-EN007; Ninaruru, the Magistus Glass Goddess; Super Rare, Collector's Rare
+GEIM-EN008; Artemis, the Magistus Moon Maiden; Ultra Rare, Collector's Rare
+GEIM-EN009; Trismagistus; Super Rare
+GEIM-EN010; Magistus Theurgy; Rare
+GEIM-EN011; Magistus Invocation; Rare
+GEIM-EN012; Magistus Vritra; Rare
+GEIM-EN013; Live☆Twin Ki-sikil; Super Rare, Collector's Rare
+GEIM-EN014; Live☆Twin Lil-la; Super Rare, Collector's Rare
+GEIM-EN015; Evil★Twin Ki-sikil; Ultra Rare, Collector's Rare
+GEIM-EN016; Evil★Twin Lil-la; Ultra Rare, Collector's Rare
+GEIM-EN017; Evil★Twins Ki-sikil & Lil-la; Ultra Rare, Collector's Rare
+GEIM-EN018; Live☆Twin Home; Super Rare
+GEIM-EN019; Live☆Twin Channel; Rare
+GEIM-EN020; Secret Password; Super Rare
+GEIM-EN021; Evil★Twin Challenge; Rare
+GEIM-EN022; Evil★Twin GG EZ; Rare
+GEIM-EN023; Evil★Twin Present; Rare
+GEIM-EN024; Drytron Alpha Thuban; Super Rare
+GEIM-EN025; Drytron Beta Rastaban; Rare
+GEIM-EN026; Drytron Gamma Eltanin; Rare
+GEIM-EN027; Drytron Delta Altais; Rare
+GEIM-EN028; Drytron Zeta Aldhibah; Rare
+GEIM-EN029; Drytron Meteonis Draconids; Ultra Rare, Collector's Rare
+GEIM-EN030; Drytron Meteonis Quadrantids; Super Rare, Collector's Rare
+GEIM-EN031; Drytron Fafnir; Super Rare
+GEIM-EN032; Meteonis Drytron; Ultra Rare, Collector's Rare
+GEIM-EN033; Drytron Nova; Ultra Rare
+GEIM-EN034; Drytron Eclipse; Rare
+GEIM-EN035; Drytron Asterism; Rare
+GEIM-EN036; Drytron Meteor Shower; Rare
+GEIM-EN037; Cyberse Gadget; Rare
+GEIM-EN038; Performage Hat Tricker; Rare
+GEIM-EN039; Star Drawing; Rare
+GEIM-EN040; Cyber Angel Benten; Rare
+GEIM-EN041; Knightmare Gryphon; Rare
+GEIM-EN042; Cyber Emergency; Super Rare
+GEIM-EN043; Extra-Foolish Burial; Rare
+GEIM-EN044; Born from Draconis; Rare
+GEIM-EN045; Bottomless Trap Hole; Rare
+GEIM-EN046; Herald of Ultimateness; Rare
+GEIM-EN047; Impcantation Chalislime; Super Rare
+GEIM-EN048; Beat Cop from the Underworld; Super Rare, Collector's Rare
+GEIM-EN049; Backup Secretary; Rare
+GEIM-EN050; Knightmare Unicorn; Rare, Collector's Rare
+GEIM-EN051; Knightmare Phoenix; Rare, Collector's Rare
+GEIM-EN052; Number 96: Dark Mist; Rare
+GEIM-EN053; Aleister the Invoker of Madness; Ultra Rare, Collector's Rare
+GEIM-EN054; The Book of the Law; Rare
+GEIM-EN055; Invoked Cocytus; Rare
+GEIM-EN056; Invoked Magellanica; Rare
+GEIM-EN057; Cynet Regression; Rare
+GEIM-EN058; World Legacy - "World Lance"; Rare
+GEIM-EN059; Engraver of the Mark; Rare
+GEIM-EN060; Performage Damage Juggler; Rare
